@@ -1,0 +1,27 @@
+body {
+background-image: url(https://media.istockphoto.com/photos/green-felt-and-playing-chips-abstract-background-picture-id672556284?k=20&m=672556284&s=170667a&w=0&h=SWP0taudpyx88SDF6KU_ZIzVz8LrDWnyyRv4E1V3v6M=);
+background-size: cover;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;
+color: white;
+font-weight: bold;
+}
+
+h1 {
+  color: goldenrod; }
+
+#message-el {
+font-style: italic;
+}
+button {
+color: #016f32;
+width: 150px;;
+background: goldenrod;
+padding-top: 5px;
+padding-bottom: 5px;
+font-weight: bold;
+border: none;
+border-radius: 2px;
+margin-top: 5px;
+align-items: center;
+}
